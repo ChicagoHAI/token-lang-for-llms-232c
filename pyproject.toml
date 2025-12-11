@@ -1,0 +1,10 @@
+[project]
+name = "token-language-research"
+version = "0.1.0"
+description = "Research on artificial token languages for more efficient LLMs"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

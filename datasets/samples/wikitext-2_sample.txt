@@ -1,0 +1,12 @@
+WikiText-2 Sample (first 3 training examples):
+
+Example 1:
+...
+
+Example 2:
+ = Valkyria Chronicles III = 
+...
+
+Example 3:
+...
+

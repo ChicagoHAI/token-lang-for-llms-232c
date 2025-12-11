@@ -1,0 +1,17 @@
+GLUE MRPC Sample (first 3 training examples):
+
+Example 1:
+Sentence 1: Amrozi accused his brother , whom he called " the witness " , of deliberately distorting his evidence .
+Sentence 2: Referring to him as only " the witness " , Amrozi accused his brother of deliberately distorting his evidence .
+Label: 1
+
+Example 2:
+Sentence 1: Yucaipa owned Dominick 's before selling the chain to Safeway in 1998 for $ 2.5 billion .
+Sentence 2: Yucaipa bought Dominick 's in 1995 for $ 693 million and sold it to Safeway for $ 1.8 billion in 1998 .
+Label: 0
+
+Example 3:
+Sentence 1: They had published an advertisement on the Internet on June 10 , offering the cargo for sale , he added .
+Sentence 2: On June 10 , the ship 's owners had published an advertisement on the Internet , offering the explosives for sale .
+Label: 1
+
